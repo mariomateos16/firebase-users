@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "users-angular-e9f24": {
+      "hosting": {
+        "firebase-users": [
+          "users-angular-e9f24"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "users-angular-e9f24"
+  }
+}
